@@ -1,0 +1,9 @@
+.snoopy{
+    width:190px;
+    border-radius:10px;
+}
+
+.card{
+    box-shadow:0 8px 20px rgba(0,0,0,0.2);
+    align-self: center;
+}
